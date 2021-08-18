@@ -1,2 +1,4 @@
-# -Shitpost---DIscord-Bot-
-This is my first discord bot.... okay.
+Hello! This is my first bot on Discord.PY.
+
+[ БОТ ПОДДЕРЖИВАЕТ РУССКИЙ ЯЗЫК, УВЫ, ПЕРЕВОДА НЕТ]
+Sorry, no english translation.
